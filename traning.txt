@@ -1,0 +1,44 @@
+variable(container for storing data)(variable declaration,data casting,data types)
+integer(int),string(str),float(float),Boolean(bool),complex(complex)"for single value store"
+
+list list() or [] 
+tuple tuple() or ()
+set set() or {}
+dict dict() or {
+    key:"value"
+}
+set=order hudaina
+w3 school
+function call nagarda samma tyo hold vayara basxa
+split= xuteune kam garxa  
+operators:
+1.arithmetic
+2.logical
+3.assignment
+
+35 resurve keywords
+x||y <= 2.5 is 2 (floor division)
+x=10
+x+=20
+x=x+20
+
+learn about detail in operator
+
+
+exception handling: 
+try:
+    code to check
+except:
+    handling an exception
+finally:
+    running the code to be run after exception checking   
+
+loop = iteration
+
+
+w=write
+a=append
+x=create
+r=read
+
+
